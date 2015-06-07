@@ -12,7 +12,7 @@
 @media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
    /* CSS overrides for mobile here */
    .achievements {
-    font-size:12px;
+    font-size:7px;
 }
 }
 
