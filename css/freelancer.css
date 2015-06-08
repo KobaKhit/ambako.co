@@ -10,6 +10,10 @@
    .achievements {
     font-size:14px !important;
     }
+
+    header .container {
+        padding-top: 70px !important;
+    }
 }
 
 .profile {
@@ -26,6 +30,7 @@
     background: #0066FF;
 }
 /*---------------------*/
+
 body {
     overflow-x: hidden;
 }

@@ -8,7 +8,11 @@
 @media(max-width: 480px) {
    /* CSS overrides for mobile here */
    .achievements {
-    font-size:16px !important;
+    font-size:14px !important;
+    }
+
+    header .container {
+        padding-top: 70px !important;
     }
 }
 
@@ -26,6 +30,7 @@
     background: #0066FF;
 }
 /*---------------------*/
+
 body {
     overflow-x: hidden;
 }
